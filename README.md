@@ -1,2 +1,3 @@
-# rp_imagenes_01
-repositorio del primero programa de prueba para analizar imagenes desde python
+git add .
+git commit -m "descripcion"
+git push origin master
